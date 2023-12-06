@@ -50,7 +50,7 @@ session_start();
                 <span></span>
                 <span></span>
                 <span></span>
-                Ubah siswa
+                Ubah User
             </button>
             <br>
             <br>
